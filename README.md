@@ -15,7 +15,7 @@
 
 - 한글로 작성한다.
 - 접두사를 붙인다.
-  - Add: 글 작성
-  - Update: 글 수정
-  - Delete: 글 삭제
-  - Chore: 기타
+  - ADD: 글 작성
+  - UPDATE: 글 수정
+  - DELETE: 글 삭제
+  - CHORE: 기타
